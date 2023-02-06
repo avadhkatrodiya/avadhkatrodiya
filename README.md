@@ -28,4 +28,4 @@
 ### Contact Me
 <a href="https://mail.google.com/mail/u/0/#inbox"><img src="http://img.shields.io/badge/Gmail-adkatrodiya11@gmail.com-red?style=for-the-badge&logo=Gmail"></a>
 <a href="https://www.linkedin.com/in/avadhkatrodiya"><img src="http://img.shields.io/badge/LinkedIn-avdhkatrodiya-red?style=for-the-badge&logo=Linkedin"></a>
-<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=avadhkatrodiya&theme=dark&hide_langs_below=1&layout=compact" /><img height="190" src="https://github-readme-status.vercel.app/api?username=avadhkatrodiya&&show_icons=true&title_color=fff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img height="190" src="https://github-readme-status.vercel.app/api/top-langs/?username=avadhkatrodiya&theme=dark&hide_langs_below=1&layout=compact" /><img height="190" src="https://github-readme-status.vercel.app/api?username=avadhkatrodiya&&show_icons=true&title_color=fff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
